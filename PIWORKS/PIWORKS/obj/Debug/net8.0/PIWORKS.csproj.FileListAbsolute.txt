@@ -1,0 +1,14 @@
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\PIWORKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\PIWORKS.AssemblyInfoInputs.cache
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\PIWORKS.AssemblyInfo.cs
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\PIWORKS.csproj.CoreCompileInputs.cache
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\bin\Debug\net8.0\PIWORKS.exe
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\bin\Debug\net8.0\PIWORKS.deps.json
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\bin\Debug\net8.0\PIWORKS.runtimeconfig.json
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\bin\Debug\net8.0\PIWORKS.dll
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\bin\Debug\net8.0\PIWORKS.pdb
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\PIWORKS.dll
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\refint\PIWORKS.dll
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\PIWORKS.pdb
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\PIWORKS.genruntimeconfig.cache
+C:\Users\husna\source\repos\PIWORKS\PIWORKS\obj\Debug\net8.0\ref\PIWORKS.dll
